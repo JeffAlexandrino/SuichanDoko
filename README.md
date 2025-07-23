@@ -57,7 +57,4 @@ SuichanDoko/
 ## Credits
 
 Developed by [Jeff Alexandrino](https://github.com/JeffAlexandrino)
-Inspired by a love for Suisei.
-
-```
 
